@@ -1,3 +1,3 @@
 # Mobile App Dev Flix
 
-<img src="https://imgur.com/a/fztHNJ9", width=250 />
+<img src="https://imgur.com/KzQs8pm.gif", width=250 />
