@@ -13,7 +13,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/QWj0kox.gif" width=250><br>
+<img src="https://github.com/daijonbereola/Mobile-App-Dev-Flix/blob/main/Flix-demo-2.gif?raw=true" width=250><br>
 
 ### Notes
 - Had a small issue with the Collection View Layout not correctly showing the posterView
@@ -33,7 +33,7 @@
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/KzQs8pm.gif" width=250><br>
+<img src="https://github.com/daijonbereola/Mobile-App-Dev-Flix/blob/main/Flix-demo-1.gif?raw=true" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
